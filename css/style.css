@@ -1,0 +1,31 @@
+body {
+	width: 800px;
+	margin: 0 auto;
+}
+
+span {
+	font-weight: bold;
+}
+
+.title {
+	font-family: 'Bungee Shade', cursive,  sans-serif;
+	text-align: center;
+}
+
+.heading {
+	font-family: 'Arima Madurai', cursive;
+}
+
+.got-image {
+	width: 100%;
+}
+
+.image-list {
+	display: flex;
+	flex-wrap: wrap;
+}
+
+.image {
+	width: vh min 180px;
+	/*height: 100px;*/
+}
